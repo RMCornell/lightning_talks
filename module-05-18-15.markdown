@@ -19,7 +19,7 @@
 * Eugene Khanutin
 * Vanessa Gomez
 * Andrew Fink
-* Rob Cornell - Computer Aided Dispatch Systems (What Happens when you call 911)
+* Rob Cornell - Computer Aided Dispatch Systems - What happens when you call 911
 
 **Week of 6/1**
 
